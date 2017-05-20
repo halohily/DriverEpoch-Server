@@ -25,4 +25,5 @@ switch($PostType){
     case "GetOrders": require "interface/GetOrders.php"; break;
     case "AddPlace": require "interface/AddPlace.php"; break;
     case "GetPlaces": require "interface/GetPlaces.php"; break;
+    case "GetPoints": require "interface/GetPoints.php"; break;
 }

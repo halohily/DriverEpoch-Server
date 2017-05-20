@@ -25,8 +25,8 @@
       <file leaf-file-name="receiver.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/receiver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46272492">
-              <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.52056557">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
               <folding>
                 <element signature="e#6#83#0#PHP" expanded="true" />
               </folding>
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/interface/GetPlaces.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-26.875">
-              <caret line="43" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+              <caret line="43" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <marker date="1495285181000" expanded="true" signature="196:300" placeholder="SELECT add_t... historyPlaces" />
               </folding>
@@ -49,8 +49,8 @@
       <file leaf-file-name="CheckOrderState.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/CheckOrderState.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.875">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state vertical-scroll-proportion="-19.375">
+              <caret line="31" column="9" selection-start-line="28" selection-start-column="7" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <marker date="1495286537000" expanded="true" signature="180:227" placeholder="SELECT state... orders" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="GetOrders.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/GetOrders.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-29.916666">
-              <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+            <state vertical-scroll-proportion="-31.791666">
+              <caret line="56" column="1" selection-start-line="19" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
               <folding>
                 <marker date="1495287315000" expanded="true" signature="196:298" placeholder="SELECT id,po... orders" />
               </folding>
@@ -73,15 +73,32 @@
       <file leaf-file-name="DateOrder.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/DateOrder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.916666">
-              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state vertical-scroll-proportion="-11.166667">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding>
-                <marker date="1495286047000" expanded="true" signature="414:537" placeholder="INSERT INTO orders... " />
-                <marker date="1495286047000" expanded="true" signature="572:685" placeholder="INSERT INTO orders... " />
-                <marker date="1495286047000" expanded="true" signature="863:901" placeholder="SELECT id fr... orders" />
-                <marker date="1495286047000" expanded="true" signature="863:922" placeholder="SELECT id fr... orders" />
-                <marker date="1495286047000" expanded="true" signature="863:928" placeholder="SELECT id fr... orders" />
-                <marker date="1495286047000" expanded="true" signature="863:946" placeholder="SELECT * fro... orders" />
+                <marker date="1495299741000" expanded="true" signature="414:537" placeholder="INSERT INTO orders... " />
+                <marker date="1495299741000" expanded="true" signature="572:685" placeholder="INSERT INTO orders... " />
+                <marker date="1495299741000" expanded="true" signature="863:901" placeholder="SELECT id fr... orders" />
+                <marker date="1495299741000" expanded="true" signature="863:922" placeholder="SELECT id fr... orders" />
+                <marker date="1495299741000" expanded="true" signature="863:928" placeholder="SELECT id fr... orders" />
+                <marker date="1495299741000" expanded="true" signature="863:946" placeholder="SELECT * fro... orders" />
+                <marker date="1495299741000" expanded="true" signature="1326:1394" placeholder="SELECT * FRO... userPoints" />
+                <marker date="1495299741000" expanded="true" signature="1721:1783" placeholder="UPDATE userP... " />
+                <marker date="1495299741000" expanded="true" signature="1721:1800" placeholder="UPDATE userP... " />
+                <marker date="1495299741000" expanded="true" signature="1921:2056" placeholder="INSERT INTO userPoints... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPoints.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/GetPoints.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-29.916666">
+              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding>
+                <marker date="1495300141000" expanded="true" signature="183:267" placeholder="SELECT uid,p... userPoints" />
+                <marker date="1495300141000" expanded="true" signature="183:279" placeholder="SELECT id,ui... userPoints" />
               </folding>
             </state>
           </provider>
@@ -102,8 +119,8 @@
       <file leaf-file-name="EditCar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/EditCar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="27" />
+            <state vertical-scroll-proportion="-8.125">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <marker date="1495275702000" expanded="true" signature="187:229" placeholder="UPDATE users... " />
               </folding>
@@ -135,18 +152,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helper/common.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#84#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -166,9 +171,10 @@
         <option value="$PROJECT_DIR$/interface/EditCar.php" />
         <option value="$PROJECT_DIR$/interface/AddPlace.php" />
         <option value="$PROJECT_DIR$/interface/GetPlaces.php" />
-        <option value="$PROJECT_DIR$/interface/DateOrder.php" />
         <option value="$PROJECT_DIR$/interface/CheckOrderState.php" />
         <option value="$PROJECT_DIR$/interface/GetOrders.php" />
+        <option value="$PROJECT_DIR$/interface/DateOrder.php" />
+        <option value="$PROJECT_DIR$/interface/GetPoints.php" />
         <option value="$PROJECT_DIR$/receiver.php" />
       </list>
     </option>
@@ -180,7 +186,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="919" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -312,10 +318,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="919" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20068415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12589413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -357,7 +363,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -592,41 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/AddPlace.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding>
-            <marker date="1495280981000" expanded="true" signature="419:582" placeholder="INSERT INTO historyPlaces... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/DateOrder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.916666">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-          <folding>
-            <marker date="1495286047000" expanded="true" signature="414:537" placeholder="INSERT INTO orders... " />
-            <marker date="1495286047000" expanded="true" signature="572:685" placeholder="INSERT INTO orders... " />
-            <marker date="1495286047000" expanded="true" signature="863:901" placeholder="SELECT id fr... orders" />
-            <marker date="1495286047000" expanded="true" signature="863:922" placeholder="SELECT id fr... orders" />
-            <marker date="1495286047000" expanded="true" signature="863:928" placeholder="SELECT id fr... orders" />
-            <marker date="1495286047000" expanded="true" signature="863:946" placeholder="SELECT * fro... orders" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/EditCar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <marker date="1495275702000" expanded="true" signature="187:229" placeholder="UPDATE users... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interface/Login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.875">
@@ -639,10 +612,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/CheckOrderState.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.875">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="31" column="9" selection-start-line="28" selection-start-column="7" selection-end-line="31" selection-end-column="9" />
           <folding>
             <marker date="1495286537000" expanded="true" signature="180:227" placeholder="SELECT state... orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/EditCar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <marker date="1495275702000" expanded="true" signature="187:229" placeholder="UPDATE users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/AddPlace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <marker date="1495280981000" expanded="true" signature="419:582" placeholder="INSERT INTO historyPlaces... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/DateOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.166667">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <marker date="1495299741000" expanded="true" signature="414:537" placeholder="INSERT INTO orders... " />
+            <marker date="1495299741000" expanded="true" signature="572:685" placeholder="INSERT INTO orders... " />
+            <marker date="1495299741000" expanded="true" signature="863:901" placeholder="SELECT id fr... orders" />
+            <marker date="1495299741000" expanded="true" signature="863:922" placeholder="SELECT id fr... orders" />
+            <marker date="1495299741000" expanded="true" signature="863:928" placeholder="SELECT id fr... orders" />
+            <marker date="1495299741000" expanded="true" signature="863:946" placeholder="SELECT * fro... orders" />
+            <marker date="1495299741000" expanded="true" signature="1326:1394" placeholder="SELECT * FRO... userPoints" />
+            <marker date="1495299741000" expanded="true" signature="1721:1783" placeholder="UPDATE userP... " />
+            <marker date="1495299741000" expanded="true" signature="1721:1800" placeholder="UPDATE userP... " />
+            <marker date="1495299741000" expanded="true" signature="1921:2056" placeholder="INSERT INTO userPoints... " />
           </folding>
         </state>
       </provider>
@@ -650,7 +662,7 @@
     <entry file="file://$PROJECT_DIR$/interface/GetPlaces.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-26.875">
-          <caret line="43" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <caret line="43" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
           <folding>
             <marker date="1495285181000" expanded="true" signature="196:300" placeholder="SELECT add_t... historyPlaces" />
           </folding>
@@ -659,18 +671,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/GetOrders.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.916666">
-          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        <state vertical-scroll-proportion="-31.791666">
+          <caret line="56" column="1" selection-start-line="19" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
           <folding>
             <marker date="1495287315000" expanded="true" signature="196:298" placeholder="SELECT id,po... orders" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interface/GetPoints.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.916666">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <marker date="1495300141000" expanded="true" signature="183:267" placeholder="SELECT uid,p... userPoints" />
+            <marker date="1495300141000" expanded="true" signature="183:279" placeholder="SELECT id,ui... userPoints" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/receiver.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46272492">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.52056557">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
           <folding>
             <element signature="e#6#83#0#PHP" expanded="true" />
           </folding>

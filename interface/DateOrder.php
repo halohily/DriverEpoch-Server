@@ -47,6 +47,26 @@ else{
             }
         }
         $data['id'] = $list[$i - 1];
+
+        $sql5 = "SELECT * FROM userPoints WHERE user_id = '$user_id' AND uid = '$uid'";
+        $sqlResult5 = $mysql->query($sql5);
+        $num = mysqli_num_rows($sqlResult5);
+        if ($num > 0){
+            $point = null;
+            while($row = mysqli_fetch_array($sqlResult5)) {
+                $point = $row['points'];
+                break;
+            }
+            $point += 10;
+            $sql3 = "UPDATE userPoints SET points='$point' WHERE user_id='$user_id' AND uid = '$uid'";
+            $sqlResult3 = $mysql->query($sql3);
+        }
+        else{
+            $point = 30;
+            $sql4 = "INSERT INTO userPoints (uid, user_id, poi_name, poi_address, points) VALUES ('$uid', '$user_id', '$poi_name', '$poi_address', '$point')";
+            $sqlResult4 = $mysql->query($sql4);
+
+        }
         returnData('预约成功', 1, $data);
     }
     else{
