@@ -6,7 +6,7 @@
  * Time: 下午7:14
  */
 
-$mysql = new mysqli("localhost","root","123456","driverEpoch");
+$mysql = new mysqli("localhost","root","123456halohiLY###","driverEpoch");
 if(mysqli_connect_errno()){
     die("Unable to connect!").mysqli_connect_error();
 }
